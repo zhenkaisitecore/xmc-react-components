@@ -9,9 +9,6 @@ import "./ExampleHybridComponent";
 // Component that has separate implementation for clientside
 import "./ExampleSwappedComponent.server";
 
-// SEO-friendly content augmented with interactive component
-import "./ExampleAugmentedComponent";
-
 // # App router-specific:
 
 // Async server component
